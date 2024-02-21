@@ -1,0 +1,1 @@
+kicad-hqdfm-plugin-release
