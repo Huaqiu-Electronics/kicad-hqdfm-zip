@@ -5,7 +5,7 @@ from kicad_dfm.picture import GetImagePath
 class _PictureMatchPath:
     def picture_path(self, string, language_string):
         json_string = string.lower()
-        if json_string == "acute angle traces" or json_string == "锐角":
+        if json_string == "acute angle traces" or json_string == "锐角" or json_string == "acute angle traces ":
             return wx.Bitmap(self.GetImagePath("acute_angle" + language_string))
         elif json_string == "unconnected traces" or json_string == "断头线":
             return wx.Bitmap(self.GetImagePath("breakage_line" + language_string))
@@ -96,7 +96,7 @@ class _PictureMatchPath:
         ):
             return wx.Bitmap(self.GetImagePath("line2pth_outer" + language_string))
 
-        elif json_string == "npth-to-copper" or json_string == "npth铜":
+        elif json_string == "npth-to-copper" or json_string == "npth铜" or json_string == "npth-to-copper ":
             return wx.Bitmap(self.GetImagePath("npth2copper" + language_string))
 
         elif json_string == "smd-to-board edge" or json_string == "smd到板边":

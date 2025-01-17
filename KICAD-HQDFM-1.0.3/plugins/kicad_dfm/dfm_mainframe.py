@@ -64,6 +64,7 @@ class DfmMainframe(wx.Frame):
                 "C:\\Program Files\\demos\\Prj 1 - LED torch.kicad_pcb",
                 "C:\\Program Files\\demos\\flat_hierarchy\\flat_hierarchy.kicad_pcb",
                 "C:\\Program Files\\demos\\video\\video.kicad_pcb",
+                "C:\\Users\\haf\\Desktop\\常用文档\\tiny-scarab.kicad_pcb",
             ):
                 if os.path.exists(fp):
                     self.board = pcbnew.LoadBoard(fp)

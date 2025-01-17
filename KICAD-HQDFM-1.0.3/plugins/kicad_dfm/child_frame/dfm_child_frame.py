@@ -252,11 +252,14 @@ class DfmChildFrame(UiChildFrame):
         if len(list_string) == 0 and len(self.get_layer) != 0:
             list_string.append(self.lst_analysis_type.GetString(0))
             self.lst_analysis_type.SetSelection(0)
-            self.bmp.SetBitmap(
-                PICTURE_MATCH_PATH.picture_path(
+            bitmap_path =  PICTURE_MATCH_PATH.picture_path(
                     self, list_string[0], self.message_type["picture_path"]
                 )
-            )
+            if bitmap_path is None:
+                self.bmp.SetBitmap(wx.Bitmap(GetImagePath("none.png")))
+                print(" PICTURE_MATCH_PATH.picture_path() 返回了 None")
+            else:
+                self.bmp.SetBitmap(bitmap_path)
             self.Layout()
 
         # 孔环和最小线宽的特殊展示方式
