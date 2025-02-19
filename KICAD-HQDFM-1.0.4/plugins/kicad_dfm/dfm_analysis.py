@@ -3,12 +3,10 @@ import json
 import re
 import wx
 import os
-import sys
 import time
 from . import config
 from kicad_dfm import GetFilePath
-from kicad_dfm.settings.timestamp import TimeStamp
-import logging
+
 import requests
 from requests.exceptions import (
     Timeout,
@@ -406,10 +404,12 @@ class DfmAnalysis:
                             else:
                                 color = "black"
                         else:
-                            if float(item_info_info["val"]) > rule1:
+                            value_str = item_info_info["val"]
+                            value = self.convert_to_float(value_str)
+                            if float(value) > rule1:
                                 color = "red"
                                 have_red = True
-                            elif rule2 < float(item_info_info["val"]) < rule1:
+                            elif rule2 < float(value) < rule1:
                                 color = "gold"
                                 have_yellow = True
                             else:
@@ -434,6 +434,17 @@ class DfmAnalysis:
             item_result["color"] = "black"
         json_result[name] = item_result
         return json_result
+
+
+    def convert_to_float(self, value_str):
+        # 检查是否包含 '%'
+        if '%' in value_str:
+            # 移除 '%' 并转换为浮点数，然后除以 100
+            value = float(value_str.strip('%')) / 100
+        else:
+            # 直接转换为浮点数
+            value = float(value_str)
+        return value
 
     def anaylsis_dfm_type_info(
         self, item_info_info, item, rule, item_layer_list, color

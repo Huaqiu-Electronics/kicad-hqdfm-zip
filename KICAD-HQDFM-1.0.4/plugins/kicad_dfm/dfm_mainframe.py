@@ -7,7 +7,8 @@ import json
 import pcbnew
 import tempfile
 from pathlib import Path
-from . import config
+from .config import Language_chinese, Language_english
+
 
 from .create_file import CreateFile
 from .child_frame.dfm_child_frame import DfmChildFrame
@@ -36,13 +37,13 @@ class DfmMainframe(wx.Frame):
         SINGLE_PLUGIN.register_main_wind(self)
         self.control = {}
         if pcbnew.GetLanguage() == "简体中文":
-            self.control = config.Language_chinese
+            self.control = Language_chinese
         elif pcbnew.GetLanguage() == "English":
-            self.control = config.Language_english
+            self.control = Language_english
         elif pcbnew.GetLanguage() == "Default":
-            self.control = config.Language_english
+            self.control = Language_english
         elif pcbnew.GetLanguage() == "":
-            self.control = config.Language_english
+            self.control = Language_english
         else:
             wx.MessageBox(
                 _("The language you selected is currently not supported"),
@@ -64,7 +65,9 @@ class DfmMainframe(wx.Frame):
                 "C:\\Program Files\\demos\\Prj 1 - LED torch.kicad_pcb",
                 "C:\\Program Files\\demos\\flat_hierarchy\\flat_hierarchy.kicad_pcb",
                 "C:\\Program Files\\demos\\video\\video.kicad_pcb",
-                "C:\\Users\\haf\\Desktop\\常用文档\\tiny-scarab.kicad_pcb",
+                "C:\\Program Files\\demos\\ESP32 Clone Devkit.kicad_pcb",
+                "C:\\Program Files\\demos\\kit-dev-coldfire-xilinx_5213\\kit-dev-coldfire-xilinx_5213.kicad_pcb",
+
             ):
                 if os.path.exists(fp):
                     self.board = pcbnew.LoadBoard(fp)

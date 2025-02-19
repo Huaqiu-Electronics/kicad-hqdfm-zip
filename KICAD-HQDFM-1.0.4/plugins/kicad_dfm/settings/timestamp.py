@@ -1,6 +1,7 @@
 import logging
 from datetime import datetime
 import sys
+import os
 
 
 class TimeStamp:
@@ -10,7 +11,11 @@ class TimeStamp:
 
     def _setup_logging(self):
         try:
-            log_file_path = "C:\\Users\\haf\\Documents\\KiCad\\8.0\\scripting\\plugins\\kicad-hqdfm-plugin\\plugin.log"
+                        # 获取当前工作目录
+            current_directory = os.getcwd()
+            # 构造日志文件路径（当前目录下）
+            log_file_path = os.path.join(current_directory, "plugin.log")
+            # log_file_path = "C:\\Users\\haf\\Documents\\KiCad\\8.0\\scripting\\plugins\\kicad-hqdfm-plugin\\plugin.log"
             logging.basicConfig(
                 level=logging.INFO,
                 format="%(asctime)s - %(levelname)s - %(message)s",

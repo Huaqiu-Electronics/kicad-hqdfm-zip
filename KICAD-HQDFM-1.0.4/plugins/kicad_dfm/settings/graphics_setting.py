@@ -1,10 +1,6 @@
 from decimal import Decimal
 import pcbnew
-from kicad_dfm.settings.color_rule import ColorRule
-import wx
-from math import sqrt
-from .point_to_line_distance import point_to_line_distance
-from kicad_dfm.settings.timestamp import TimeStamp
+
 
 ERROR_RANGE = 0
 EDGE_WIDTH_EXTEN = 100000
@@ -22,7 +18,6 @@ F_PASTE = 35
 class GraphicsSetting:
     def __init__(self, _board):
         self.board = _board
-        self.timestamp_logger = TimeStamp()
 
     def set_segment(self, line, result, x, y):
         line.SetShape(pcbnew.S_SEGMENT)
