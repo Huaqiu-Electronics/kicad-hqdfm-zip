@@ -1,0 +1,330 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-03-31 14:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp65001\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\gui\app_base.py:33
+msgid "In progress"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\gui\app_base.py:33
+msgid "Open Software"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\gui\app_base.py:41
+msgid "Unsupported layer count!"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:31
+msgid "Create fabrication data folder"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:34
+msgid "Fill zones"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:35
+msgid "Generate gerber"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:37
+msgid "Generate excellon"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:41
+msgid "Zip gerber and excellon file"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:67
+msgid "Sending order request"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "Chinese"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "English"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "Japanese"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:37
+msgid "BOM Search Online"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:228
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:200
+msgid "No corresponding data was matched"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:239
+msgid "returned JSON data does not have expected 'part' attribute"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:253
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:257
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:228
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:232
+msgid "{total} Results"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:255
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:230
+msgid "{max_part_count} Results"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:321
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:306
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:324
+msgid "No corresponding sku data was matched"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:364
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:355
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:383
+msgid "HTTP request timed out"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:366
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:357
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:385
+msgid "HTTP error occurred: {error}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:368
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:359
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:387
+msgid "An unexpected HTTP error occurred: {error}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:430
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:398
+msgid "Failed to get clicked part from NextPCB"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:431
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:484
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:399
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:452
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:358
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:393
+msgid "Error"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:467
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:435
+msgid "Help"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:483
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:451
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:392
+msgid ""
+"Failed to download part detail from the BOM API:\r\n"
+"{reasons}\r\n"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector copy.py:490
+msgid "Select Part"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:37
+msgid "Component Search"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:482
+msgid "Jump to the product page"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_model.py:48
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:301
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:318
+msgid "Show more"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:23
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:126
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:25
+msgid "MPN"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:24
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:32
+msgid "Manufacturer"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:25
+msgid "Package / Footprint"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:26
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:44
+msgid "Category"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:27
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:30
+msgid "Description"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:28
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:100
+msgid "Datasheet"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:29
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:161
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:50
+msgid "ProductUrl"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:52
+msgid "Property"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:58
+msgid "Value"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:210
+msgid "The width and height of new size must be greater than 0"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:257
+msgid "returned data does not have expected clicked part"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:283
+msgid "Price"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:291
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:293
+msgid "Piece"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:357
+msgid ""
+"Failed to download part detail: {reason}\r\n"
+"We looked for a part named:\r\n"
+"{mpn} \r\n"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:23
+msgid "Part Details"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:42
+msgid "Picture"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:22
+msgid "index"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:38
+msgid "Package/Footprint"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:53
+msgid "Price /Pc."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:27
+msgid "0 Results"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:57
+msgid "Previous"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:62
+msgid "0/1000"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:72
+msgid "Next"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_search_panel\ui_search_panel.py:35
+msgid "Search"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\utils\constraint.py:6
+msgid "No"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\utils\constraint.py:6
+msgid "Yes"
+msgstr ""
+

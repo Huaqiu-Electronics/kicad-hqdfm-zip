@@ -1,0 +1,1299 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-03-26 11:14+0800\n"
+"PO-Revision-Date: 2025-03-26 11:25+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\gui\app_base.py:33
+msgid "In progress"
+msgstr "進行中"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\gui\app_base.py:33
+msgid "Open Software"
+msgstr "オープンソフトウェア"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\gui\app_base.py:41
+msgid "Unsupported layer count!"
+msgstr "ボードレイヤーの数はサポートされていません!"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:31
+msgid "Create fabrication data folder"
+msgstr "製作データフォルダーの作成"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:34
+msgid "Fill zones"
+msgstr "フィルゾーン"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:35
+msgid "Generate gerber"
+msgstr "ガーバーを生成する"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:37
+msgid "Generate excellon"
+msgstr "エクセロンの生成"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:41
+msgid "Zip gerber and excellon file"
+msgstr "ガーバーおよび Excellon ファイルを ZIP 化する"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\kicad\fabrication_data_generator_thread.py:67
+msgid "Sending order request"
+msgstr "注文リクエストの送信"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "Chinese"
+msgstr "簡体字中国語"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "English"
+msgstr "英語"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\language\lang_const.py:47
+msgid "Japanese"
+msgstr "日本語"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:37
+msgid "BOM Search Online"
+msgstr "BOM Search Online"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:228
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:205
+msgid "No corresponding data was matched"
+msgstr "対応するデータが一致しませんでした"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:239
+msgid "returned JSON data does not have expected 'part' attribute"
+msgstr "返されるjsonデータには期待される'part'属性がありません"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:253 copy.py:257
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:231
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:235
+msgid "{total} Results"
+msgstr "{total} 匹です"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:255
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:233
+msgid "{max_part_count} Results"
+msgstr "{max_part_count} 匹です"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:321
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:299
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:259
+msgid "No corresponding sku data was matched"
+msgstr "対応するskuデータが一致しませんでした"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:364
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:342
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:318
+msgid "HTTP request timed out"
+msgstr "httpリクエストがタイムアウトしました"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:366
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:344
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:320
+msgid "HTTP error occurred: {error}"
+msgstr "エラーが発生したHTTP: {error}"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:368
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:346
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:322
+msgid "An unexpected HTTP error occurred: {error}"
+msgstr "予期しないhttpエラーが発生しました: {error}"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:430
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:408
+msgid "Failed to get clicked part from NextPCB"
+msgstr "nextpcbからクリックされた部分を取得できませんでした"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:431 copy.py:484
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:409
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:462
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:293
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:328
+msgid "Error"
+msgstr "エロー"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:467
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:445
+msgid "Help"
+msgstr "助け"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:483
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:461
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:327
+msgid ""
+"Failed to download part detail from the BOM API:\r\n"
+"{reasons}\r\n"
+msgstr ""
+"bom apiから部品の詳細をダウンロードできませんでした:\n"
+"{reasons}\n"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector
+#: copy.py:490
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:468
+msgid "Select Part"
+msgstr "選択部"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\part_selector.py:35
+#, fuzzy
+#| msgid "Search"
+msgid " HQ Search "
+msgstr "検索"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_model.py:48
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:236
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:253
+msgid "Show more"
+msgstr "多くのことを見せる"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:21
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:25
+msgid "MPN"
+msgstr "MPN"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:22
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:32
+msgid "Manufacturer"
+msgstr "メーカー"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:23
+msgid "Package / Footprint"
+msgstr "パッケージ/パッケージレイアウト"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:24
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:44
+msgid "Category"
+msgstr "カテゴリ"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:25
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:30
+msgid "Description"
+msgstr "記述"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:26
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:90
+msgid "Datasheet"
+msgstr "マニュアルデータです"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:27
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:50
+msgid "SKU"
+msgstr "SKU"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:50
+msgid "Property"
+msgstr "財産"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:56
+msgid "Value"
+msgstr "値"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:147
+msgid "The width and height of new size must be greater than 0"
+msgstr "new sizeの幅と高さは0より大きくなければなりません"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:194
+msgid "returned data does not have expected clicked part"
+msgstr "返されるデータは、クリックされた部分が期待されていません"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:218
+msgid "Price"
+msgstr "価格"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:226
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:228
+msgid "Piece"
+msgstr "切れです"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\part_details_view.py:292
+msgid ""
+"Failed to download part detail: {reason}\r\n"
+"We looked for a part named:\r\n"
+"{mpn} \r\n"
+msgstr ""
+"部品の詳細をダウンロードできませんでした:{reason}\n"
+"私たちは、という名前の部品を探しました:\n"
+"{mpn}\n"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:23
+msgid "Part Details"
+msgstr "部品の詳細です"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:42
+msgid "Picture"
+msgstr "画像です"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:22
+msgid "index"
+msgstr "索引です"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:38
+msgid "Package/Footprint"
+msgstr "パッケージ/パッケージレイアウト"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\part_list_view.py:53
+msgid "Price /Pc."
+msgstr "価格/切れです"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:30
+msgid "0 Results"
+msgstr "0匹です"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:60
+msgid "Previous"
+msgstr "前のページです"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:65
+msgid "0/1000"
+msgstr "0/1000"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:75
+msgid "Next"
+msgstr "次ページです"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\part_selector_view\ui_search_panel\ui_search_panel.py:37
+msgid "Search"
+msgstr "検索"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\utils\constraint.py:6
+msgid "No"
+msgstr "いいえ"
+
+#: C:\Users\haf\Documents\KiCad\9.0\3rdparty\plugins\com_github_Huaqiu-Electronics_kicad-search-plugin\kicad_search_plugin\utils\constraint.py:6
+msgid "Yes"
+msgstr "はい"
+
+#~ msgid "   HQ PCB   "
+#~ msgstr "   HQ PCB   "
+
+#~ msgid "Preparing for your order"
+#~ msgstr "ご注文の準備中"
+
+#~ msgid "The browser will be launched automatically while ready"
+#~ msgstr "準備が整うとブラウザが自動的に起動します"
+
+#~ msgid "No available url for querying price in current region"
+#~ msgstr "現在の地域の価格を照会するための使用可能なURLがありません"
+
+#~ msgid "Incorrect form parameter: "
+#~ msgstr "フォームパラメータが正しくありません: "
+
+#~ msgid "Return false"
+#~ msgstr "偽戻る"
+
+#~ msgid "No available url for placing order in current region"
+#~ msgstr "現在の地域で注文するための利用可能なURLがありません"
+
+#~ msgid "total"
+#~ msgstr "総計です"
+
+#~ msgid "BOM"
+#~ msgstr "BOM"
+
+#~ msgid "days"
+#~ msgstr "日"
+
+#~ msgid "hours"
+#~ msgstr "時"
+
+#~ msgid "testfee"
+#~ msgstr "受験料"
+
+#~ msgid "plate"
+#~ msgstr "撮影料"
+
+#~ msgid "clc"
+#~ msgstr "ボード料金"
+
+#~ msgid "gch"
+#~ msgstr "エンジニアリングコスト"
+
+#~ msgid "bgafee"
+#~ msgstr "bga料金"
+
+#~ msgid "impendancefee"
+#~ msgstr "インピーダンス料金"
+
+#~ msgid "pin"
+#~ msgstr "賦課手数料"
+
+#~ msgid "copperfee"
+#~ msgstr "銅厚料"
+
+#~ msgid "colorfee"
+#~ msgstr "カラー料金"
+
+#~ msgid "sprayfee"
+#~ msgstr "スパッタリング料金"
+
+#~ msgid "extraurgentfee"
+#~ msgstr "迅速な料金"
+
+#~ msgid "viasfee"
+#~ msgstr "ビア料金"
+
+#~ msgid "bankongfee"
+#~ msgstr "半穴料金"
+
+#~ msgid "utilizationfee"
+#~ msgstr "利用料金"
+
+#~ msgid "discountfee"
+#~ msgstr "優待額"
+
+#~ msgid "boardfee"
+#~ msgstr "貨物"
+
+#~ msgid "difficultyfee"
+#~ msgstr "難易度クラフト料金"
+
+#~ msgid "coverfee"
+#~ msgstr "はんだマスク適用料"
+
+#~ msgid "blindfee"
+#~ msgstr "ブラインド埋葬料"
+
+#~ msgid "pressingfee"
+#~ msgstr "ラミネート料金"
+
+#~ msgid "cjfee"
+#~ msgstr "沈没料金"
+
+#~ msgid "pthfee"
+#~ msgstr "めっきスルーホール料金"
+
+#~ msgid "viainpadfee"
+#~ msgstr "プレート内穴料金"
+
+#~ msgid "reportfee"
+#~ msgstr "報告料"
+
+#~ msgid "populerfee"
+#~ msgstr "人気のないクラフト料金"
+
+#~ msgid "paperfee"
+#~ msgstr "論文代"
+
+#~ msgid "userstampfee"
+#~ msgstr "ゲスト編集料なし"
+
+#~ msgid "acceptancefee"
+#~ msgstr "受入基準料"
+
+#~ msgid "crossfee"
+#~ msgstr "フォークボード料金"
+
+#~ msgid "invoicefee"
+#~ msgstr "請求手数料"
+
+#~ msgid "insurancefee"
+#~ msgstr "保険"
+
+#~ msgid "zkfee"
+#~ msgstr "掘削料金"
+
+#~ msgid "cutfee"
+#~ msgstr "カット料金"
+
+#~ msgid "luocao"
+#~ msgstr "グルーブマークアップ"
+
+#~ msgid "luocheng"
+#~ msgstr "ロチェンマークアップ"
+
+#~ msgid "smt_goods_fee_no_tax"
+#~ msgstr "総費用(税抜き)です"
+
+#~ msgid "smt_goods_fee_tax"
+#~ msgstr "SMT原価対応税金です"
+
+#~ msgid "SMT"
+#~ msgstr "SMT"
+
+#~ msgid "Mainland China"
+#~ msgstr "中国本土です"
+
+#~ msgid "Worldwide (English)"
+#~ msgstr "グローバル（英語）"
+
+#~ msgid "Worldwide (Japanese)"
+#~ msgstr "グローバル（日本語）"
+
+#~ msgid "Designator"
+#~ msgstr "識別子です"
+
+#~ msgid "Footprint"
+#~ msgstr "パッケージレイアウトです"
+
+#~ msgid "Build Time"
+#~ msgstr "納期"
+
+#~ msgid "Qty"
+#~ msgstr "量"
+
+#~ msgid "Item"
+#~ msgstr "アイテム"
+
+#~ msgid "Green"
+#~ msgstr "緑"
+
+#~ msgid "BOM View"
+#~ msgstr "BOM観"
+
+#~ msgid "BOM Match"
+#~ msgstr "BOMマッチングです"
+
+#~ msgid "Cost Detail"
+#~ msgstr "コスト詳細"
+
+#~ msgid "Order Summary"
+#~ msgstr "注文の概要"
+
+#~ msgid "Tip"
+#~ msgstr "チップ"
+
+#~ msgid "Factors that affect the price : Layer,  Min Trace/Space Outer, Min Pilled Hole "
+#~ msgstr "価格に影響を与える要因:板層、最小線幅線距離、最小開口部です"
+
+#~ msgid "Min Trace/Space Outer(Recommand) : 6mil--10mil"
+#~ msgstr "最小トレース/スペースアウター：6mil--10mil"
+
+#~ msgid "Board Type (Recommand) : Single Piece"
+#~ msgstr "ボードタイプ( すいしょう推奨) : シングル"
+
+#~ msgid "Flnsihed Copper Weight (Best Price) : 1zo"
+#~ msgstr "仕上げられた銅の重量(ベスト価格): 1zo"
+
+#~ msgid "Solder Mask Color (Best Price) : Green"
+#~ msgstr "半田マスクの色(ベストプライス):緑"
+
+#~ msgid "Update Price"
+#~ msgstr "価格を更新する"
+
+#~ msgid "Add to Cart"
+#~ msgstr "カートに追加"
+
+#~ msgid "HTTP request timed out: {error}"
+#~ msgstr "httpリクエストがタイムアウトしました: {error}"
+
+#~ msgid "Failed to parse JSON response: {error}"
+#~ msgstr "jsonレスポンスの解析に失敗しました: {error}"
+
+#~ msgid ""
+#~ "Failed to request the API:\r\n"
+#~ "{reason}.\r\n"
+#~ " \r\n"
+#~ "Please try making the request again.\r\n"
+#~ msgstr ""
+#~ "APIリクエストに失敗しました: \n"
+#~ "{reason}.\n"
+#~ " \n"
+#~ "もう一度リクエストしてみてください。\n"
+
+#~ msgid "BOM Tools"
+#~ msgstr "BOM Tools"
+
+#~ msgid " Group by: "
+#~ msgstr "迄に："
+
+#~ msgid " No Group "
+#~ msgstr "いません"
+
+#~ msgid " Value & Footprint "
+#~ msgstr "値&パッケージレイアウトです"
+
+#~ msgid "No Group"
+#~ msgstr "いません"
+
+#~ msgid "Auto Match "
+#~ msgstr "自動車試合"
+
+#~ msgid "Auto Match MPN number to parts"
+#~ msgstr "部品にmpn番号を自動一致させます"
+
+#~ msgid "   All   "
+#~ msgstr "すべて"
+
+#~ msgid "Unmanaged"
+#~ msgstr "未管理です"
+
+#~ msgid "An error occurred during the request: {error}"
+#~ msgstr "要求中にエラーが発生しました: {error}"
+
+#~ msgid "non-OK HTTP response status: {status_code}"
+#~ msgstr "非ok HTTPレスポンスのステータス:{status_code}"
+
+#~ msgid "No return data"
+#~ msgstr "返品出来ないデータ"
+
+#~ msgid "Info"
+#~ msgstr "ベース情報"
+
+#~ msgid "No corresponding data was matched. You can try to manually match."
+#~ msgstr "対応するデータが一致しませんでした。手動で一致させることもできます。"
+
+#~ msgid "The matching is complete. Check the matching result carefully. You can try to manually match the \"Unmatched\" part."
+#~ msgstr "マッチング完了です。マッチング結果をよくチェックしてください。デバイスは手動で一致を試みることができます。"
+
+#~ msgid "Copy MPN"
+#~ msgstr "コピーMPN"
+
+#~ msgid "Paste MPN"
+#~ msgstr "ペーストMPN"
+
+#~ msgid "Manual Match"
+#~ msgstr "手動試合"
+
+#~ msgid "Remove Assigned MPN"
+#~ msgstr "割り当てられたMPNを取り除く"
+
+#~ msgid "Export BOM file finished. file path : {temp_dir}"
+#~ msgstr "BOMファイルのエクスポートが完了しました。ファイルお分かり頂けるでしょう：{temp_dir}"
+
+#~ msgid "Export BOM file error: {e}"
+#~ msgstr "bomファイルのエクスポートエラー：{e}"
+
+#~ msgid ""
+#~ "Failed to download part detail from the BOM API:\r\n"
+#~ "{reasons}\r\n"
+#~ "Please try again later.\r\n"
+#~ msgstr ""
+#~ "BOM APIから部品の詳細をダウンロードできませんでした:\n"
+#~ "{reasons}\n"
+#~ "後でもう一度やってみてください。\n"
+
+#~ msgid "Reference"
+#~ msgstr "プリファレンス設定です"
+
+#~ msgid "Quantity"
+#~ msgstr "数です"
+
+#~ msgid "POS"
+#~ msgstr "POS"
+
+#~ msgid "Side"
+#~ msgstr "めんです"
+
+#~ msgid ""
+#~ "Failed to download part detail: {reason}\r\n"
+#~ "We looked for a part named:\r\n"
+#~ "{ mpn }\r\n"
+#~ msgstr ""
+#~ "部品の詳細をダウンロードできませんでした:{reason}\n"
+#~ "私たちは、という名前の部品を探しました:\n"
+#~ "{ mpn }\n"
+
+#~ msgid "Part Picture"
+#~ msgstr "Part Pictureデバイス画像です"
+
+#~ msgid "Export BOM file to the project folder"
+#~ msgstr "bomファイルをプロジェクトフォルダーにエクスポートします"
+
+#~ msgid " Manual Match "
+#~ msgstr "手動試合"
+
+#~ msgid " Remove Assigned MPN "
+#~ msgstr "割り当てられたMPNを取り除く"
+
+#~ msgid "Remove Assigned MPN "
+#~ msgstr "割り当てられたMPNを取り除く"
+
+#~ msgid " Epxort... "
+#~ msgstr "導出します..."
+
+#~ msgid "Select part"
+#~ msgstr "選択デバイスです"
+
+#~ msgid "MPN: "
+#~ msgstr "MPN: "
+
+#~ msgid "Manufacturer: "
+#~ msgstr "メーカー:"
+
+#~ msgid "NextPCB Tools Settings"
+#~ msgstr "NextPCB Tools Settings"
+
+#~ msgid "Do not tent vias"
+#~ msgstr "テントでビアしない"
+
+#~ msgid "Whether vias should be coverd by soldermask or not"
+#~ msgstr "ビアをはんだマスクでカバーするかどうか"
+
+#~ msgid "Whether zones should be filled on gerber generation"
+#~ msgstr "ゾーンはガーバー世代で満たされるべきかどうか"
+
+#~ msgid "Plot values"
+#~ msgstr "陰謀値"
+
+#~ msgid "Whether value should be plotted on gerber generation"
+#~ msgstr "値がガーバー世代にプロットされるべきかどうか"
+
+#~ msgid "Plot references"
+#~ msgstr "描画の参照です"
+
+#~ msgid "MPN number priority"
+#~ msgstr "MPN番号優先"
+
+#~ msgid "Whether nextPCB number from schematic should overrule those in the database"
+#~ msgstr "回路図のnextpcb番号がデータベースのnextpcb番号を上書きするかどうか"
+
+#~ msgid "Tented vias"
+#~ msgstr "穴に油を通します"
+
+#~ msgid "Untented vias"
+#~ msgstr "覆っていない穴です"
+
+#~ msgid "Don't fill zones"
+#~ msgstr "非充填領域です"
+
+#~ msgid "Plot values on silkscreen"
+#~ msgstr "値をシルクスクリーンにプロットします"
+
+#~ msgid "Don't plot values on silkscreen"
+#~ msgstr "シルクスクリーン上に値をプロットしないでください"
+
+#~ msgid "Plot references on silkscreen"
+#~ msgstr "表紙はシルクスクリーン"
+
+#~ msgid "Don't plot references on silkscreen"
+#~ msgstr "シルクスクリーンに参照をプロットしないでください"
+
+#~ msgid "MPN numbers from schematic have priority"
+#~ msgstr "回路図のmpn番号が優先されます"
+
+#~ msgid "MPN numbers from database have priority"
+#~ msgstr "データベースのmpn番号が優先されます"
+
+#~ msgid ""
+#~ "Database error occurred. \r\n"
+#~ "Please delete database : {dbfile}"
+#~ msgstr ""
+#~ "データベースエラーが発生しました。\n"
+#~ "データベースを削除してください：{dbfile}"
+
+#~ msgid "Single Piece"
+#~ msgstr "単品出荷"
+
+#~ msgid "Panel by Customer"
+#~ msgstr "顧客別パネル"
+
+#~ msgid "Panel by NextPCB"
+#~ msgstr "連続チップ(NextPCBスペル)"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Left & Right"
+#~ msgstr "左と右"
+
+#~ msgid "Top & Bottom"
+#~ msgstr "トップ＆ボトム"
+
+#~ msgid "All 4 sides"
+#~ msgstr "全4面"
+
+#~ msgid "Panel Type X value isn't valid. Please input valid value."
+#~ msgstr "スライスの長さが無効です。有効な整数を入力してください。"
+
+#~ msgid "Panel Type Y value isn't valid. Please input valid value."
+#~ msgstr "連続幅が無効なため、有効な整数を入力してください。"
+
+#~ msgid "Break-away Rail value isn't valid. Please input valid value."
+#~ msgstr "プロセスフレームサイズが無効なため、有効な数値を入力してください。"
+
+#~ msgid "Size (single)"
+#~ msgstr "サイズ（シングル）"
+
+#~ msgid "Qty(single)"
+#~ msgstr "数量(シングル)"
+
+#~ msgid "Pcs"
+#~ msgstr "ある"
+
+#~ msgid "Size (set)"
+#~ msgstr "モノリシック サイズ"
+
+#~ msgid "Qty(Set)"
+#~ msgstr "連続するピースの数"
+
+#~ msgid "Set"
+#~ msgstr "Set"
+
+#~ msgid "Base Info"
+#~ msgstr "ベース情報"
+
+#~ msgid "Material Type"
+#~ msgstr "素材タイプ"
+
+#~ msgid "Non-conductive base material"
+#~ msgstr "非導電性基材"
+
+#~ msgid "Layer Count"
+#~ msgstr "レイヤー数"
+
+#~ msgid "Board TG"
+#~ msgstr "ボード TG"
+
+#~ msgid "Board Type"
+#~ msgstr "ボードタイプ"
+
+#~ msgid "The finished PCB are by single or by panel"
+#~ msgstr "完成したPCBは単一またはパネルごとです"
+
+#~ msgid "X:"
+#~ msgstr "X:"
+
+#~ msgid "mm"
+#~ msgstr "mm"
+
+#~ msgid "Y:"
+#~ msgstr "Y:"
+
+#~ msgid "Panel Type"
+#~ msgstr "パネルの種類"
+
+#~ msgid "pcs"
+#~ msgstr "pcs"
+
+#~ msgid "Break-away Rail"
+#~ msgstr "離脱レール"
+
+#~ msgid "Need"
+#~ msgstr "必要"
+
+#~ msgid "Need & Auto Confirm"
+#~ msgstr "&自動確認が必要"
+
+#~ msgid "Need & Manual Confirm"
+#~ msgstr "&手動確認が必要です"
+
+#~ msgid "Accept"
+#~ msgstr "受け入れる"
+
+#~ msgid "Reject"
+#~ msgstr "断る"
+
+#~ msgid "No need"
+#~ msgstr "必須ではありません"
+
+#~ msgid "Add customer stamp"
+#~ msgstr "顧客番号を追加する"
+
+#~ msgid "Add it to specified location"
+#~ msgstr "指定した場所にゲスト編集者を追加する"
+
+#~ msgid "Don't add customer stamp"
+#~ msgstr "ゲスト編集なし"
+
+#~ msgid "Sample Test Free"
+#~ msgstr "無料サンプルテスト"
+
+#~ msgid "AOI+Flying Test"
+#~ msgstr "AOI+飛行テスト"
+
+#~ msgid "AOI+Fixture"
+#~ msgstr "AOI+フィクスチャ"
+
+#~ msgid "Electronic"
+#~ msgstr "電子"
+
+#~ msgid "Paper"
+#~ msgstr "紙"
+
+#~ msgid "UL+Week/Year"
+#~ msgstr "UL+週/年"
+
+#~ msgid "UL+Year/Week"
+#~ msgstr "UL+年/週"
+
+#~ msgid "Personalized Service"
+#~ msgstr "パーソナライズされたサービス"
+
+#~ msgid "Electrical Test"
+#~ msgstr "電気試験"
+
+#~ msgid "Approve Working Gerber"
+#~ msgstr "作業中のガーバーを承認する"
+
+#~ msgid "Delivery Report"
+#~ msgstr "送達通知"
+
+#~ msgid "Microsection Analysis Report"
+#~ msgstr "微細断面分析レポート"
+
+#~ msgid "Report Format"
+#~ msgstr "レポート形式"
+
+#~ msgid "UL Mark"
+#~ msgstr "ULマーク"
+
+#~ msgid "Film"
+#~ msgstr "Film"
+
+#~ msgid "Cross Board"
+#~ msgstr "フォークプレート"
+
+#~ msgid "Bulkhead Paper"
+#~ msgstr "バルクヘッド紙"
+
+#~ msgid "User Stamp Process"
+#~ msgstr "顧客番号処理"
+
+#~ msgid "HQ Pack"
+#~ msgstr "NextPCB包装"
+
+#~ msgid "Special Request"
+#~ msgstr "特別なリクエスト"
+
+#~ msgid "Red"
+#~ msgstr "赤"
+
+#~ msgid "Yellow"
+#~ msgstr "黄"
+
+#~ msgid "Blue"
+#~ msgstr "青"
+
+#~ msgid "White"
+#~ msgstr "白"
+
+#~ msgid "Matte Black"
+#~ msgstr "マットブラック"
+
+#~ msgid "Black"
+#~ msgstr "黒"
+
+#~ msgid "Tenting Vias"
+#~ msgstr "テンティングビア"
+
+#~ msgid "Vias not covered"
+#~ msgstr "ビアはカバーされていません"
+
+#~ msgid "Solder Mask Plug (IV-B)"
+#~ msgstr "ソルダーマスクプラグ(IV-B)"
+
+#~ msgid "Non-Conductive Fill"
+#~ msgstr "非導電性充填"
+
+#~ msgid "HASL"
+#~ msgstr "HASL"
+
+#~ msgid "Lead free HASL"
+#~ msgstr "鉛フリーHASL"
+
+#~ msgid "ENIG"
+#~ msgstr "ENIG"
+
+#~ msgid "OSP"
+#~ msgstr "OSP"
+
+#~ msgid "Process info"
+#~ msgstr "プロセス情報"
+
+#~ msgid "PCB Thickness"
+#~ msgstr "プリント基板の厚さ"
+
+#~ msgid "FInsihed Copper weight"
+#~ msgstr "仕上げられた銅の重量"
+
+#~ msgid "Inner Copper Weight"
+#~ msgstr "内側の銅の重量"
+
+#~ msgid "Min Trace/Space Outer"
+#~ msgstr "最小トレース/スペースアウター"
+
+#~ msgid "Min Drilled Hole"
+#~ msgstr "最小ドリル穴"
+
+#~ msgid "Solder Mask Color"
+#~ msgstr "はんだマスクの色"
+
+#~ msgid "Silkscreen"
+#~ msgstr "シルクスクリーン"
+
+#~ msgid "Via Process"
+#~ msgstr "プロセス経由"
+
+#~ msgid "Surface Finish"
+#~ msgstr "表面仕上げ"
+
+#~ msgid "Immersion Gold Thickness"
+#~ msgstr "浸漬金の厚さ"
+
+#~ msgid "Rank 1"
+#~ msgstr "ランク1"
+
+#~ msgid "Rank 2"
+#~ msgstr "ランク2"
+
+#~ msgid "Rank 3"
+#~ msgstr "ランク3"
+
+#~ msgid "Customer Specified Stack up"
+#~ msgstr "顧客指定のスタックアップ"
+
+#~ msgid "No Requirement"
+#~ msgstr "要件なし"
+
+#~ msgid "Special Process"
+#~ msgstr "特殊加工"
+
+#~ msgid "Impedance"
+#~ msgstr "インピーダンス"
+
+#~ msgid "Beveling of G/F"
+#~ msgstr "G/Fの面取り加工"
+
+#~ msgid "Plated Half Holes"
+#~ msgstr "メッキ半穴"
+
+#~ msgid "Pad Hole"
+#~ msgstr "パッド穴"
+
+#~ msgid "HDI(Buried/blind vais)"
+#~ msgstr "HDI(埋没/ブラインドゴーイング)"
+
+#~ msgid "HDI Structure"
+#~ msgstr "HDIの構造"
+
+#~ msgid "Stack up"
+#~ msgstr "積み重ねる"
+
+#~ msgid "Metallized Sides Count"
+#~ msgstr "金属化された側面の数"
+
+#~ msgid "No Need"
+#~ msgstr "必要はない"
+
+#~ msgid "General Cleaning"
+#~ msgstr "普通清潔です"
+
+#~ msgid "Precision Cleaning"
+#~ msgstr "精度クリーンです"
+
+#~ msgid "Single Side"
+#~ msgstr "片面です"
+
+#~ msgid "Double Side"
+#~ msgstr "両面です"
+
+#~ msgid "Bubble Wrap"
+#~ msgstr "プチプチ包装です"
+
+#~ msgid "Anti-static and Bubble Bag"
+#~ msgstr "静電気防止プラス気泡ポケットです"
+
+#~ msgid "Electrostatic Bag with Knife Card"
+#~ msgstr "静電気バッグにナイフカードです"
+
+#~ msgid "Lead-free Technology"
+#~ msgstr "鉛フリープロセス"
+
+#~ msgid "Special Technique"
+#~ msgstr "特別なリクエスト"
+
+#~ msgid "Process Requirement"
+#~ msgstr "プロセス要件です"
+
+#~ msgid "Erecting Welding"
+#~ msgstr "溶接を組み立てます"
+
+#~ msgid "X-RAY Boards"
+#~ msgstr "Xレイ単板数です"
+
+#~ msgid "X-RAY Elements"
+#~ msgstr "X−RAYメタ数です"
+
+#~ msgid "Panel Cleaning"
+#~ msgstr "板掃除です"
+
+#~ msgid "Material Baking"
+#~ msgstr "物質ベーキングです"
+
+#~ msgid "Welding or Not"
+#~ msgstr "ワイヤーを溶接しますか"
+
+#~ msgid "Functional Test"
+#~ msgstr "機能テストです"
+
+#~ msgid "Assembled"
+#~ msgstr "組み立てます"
+
+#~ msgid "Program Burning"
+#~ msgstr "プログラム焼き付けです"
+
+#~ msgid "Split Shipment"
+#~ msgstr "板をはずして出荷します"
+
+#~ msgid "Line/Pad Tinning"
+#~ msgstr "ワイヤー/ボンディング/スズ付け"
+
+#~ msgid "Three-proof Paint"
+#~ msgstr "ペンキを塗ります"
+
+#~ msgid "Sample Drawing Confirm"
+#~ msgstr "サンプル図確認します"
+
+#~ msgid "Packaging Type"
+#~ msgstr "包装タイプです"
+
+#~ msgid "Postscript"
+#~ msgstr "工程注記です"
+
+#~ msgid "split board"
+#~ msgstr "板をはずして出荷します"
+
+#~ msgid "split board(single)"
+#~ msgstr "板を外す寸法です"
+
+#~ msgid "Ordinary Steel Mesh"
+#~ msgstr "普通鋼網です"
+
+#~ msgid "Stepped Steel Mesh"
+#~ msgstr "階段スチールネット"
+
+#~ msgid "BOM Material Type"
+#~ msgstr "材料材料BOMの種類です"
+
+#~ msgid "Patch Pad Number"
+#~ msgstr "1枚パッチ点数です"
+
+#~ msgid "Welding Plugin"
+#~ msgstr "溶接プラグイン料"
+
+#~ msgid "Single Plugin Points"
+#~ msgstr "シングルプラグイン・ポイント"
+
+#~ msgid "Steel Mesh"
+#~ msgstr "鋼網です"
+
+#~ msgid "Steel Follow Delivery"
+#~ msgstr "スチールネットは出荷につきます"
+
+#~ msgid "Industrial Control Electronics"
+#~ msgstr "制御電子です"
+
+#~ msgid "Automotive Electronics"
+#~ msgstr "カーエレクトロニクス"
+
+#~ msgid "Medical Electronics"
+#~ msgstr "メディカルエレクトロニクス"
+
+#~ msgid "New Energy Electronics"
+#~ msgstr "新エネルギー電子です"
+
+#~ msgid "Military Electronics"
+#~ msgstr "軍需電子"
+
+#~ msgid "Consumer Electronics"
+#~ msgstr "家電製品です"
+
+#~ msgid "Hard Board"
+#~ msgstr "硬い板です"
+
+#~ msgid "Soft Board"
+#~ msgstr "ソフトボードです"
+
+#~ msgid "Combination of Hoft and Hard"
+#~ msgstr "ホフトとハードの組み合わせ"
+
+#~ msgid "Order Together"
+#~ msgstr "一緒に註文します"
+
+#~ msgid "Oneself Provide"
+#~ msgstr "自分で提供します"
+
+#~ msgid "Huaqiu Agent Purchasing"
+#~ msgstr "華秋代仕入です"
+
+#~ msgid "Application Sphere"
+#~ msgstr "応用分野です"
+
+#~ msgid "PCB Board Type"
+#~ msgstr "PCB基板タイプです"
+
+#~ msgid "Single/Double Side"
+#~ msgstr "シングル/両面です"
+
+#~ msgid "Qty(Single)"
+#~ msgstr "シングル枚数です"
+
+#~ msgid "The total number of single pieces to be produced, the number of non-assembled plates"
+#~ msgstr "総生産枚数,非プレハブ枚数です"
+
+#~ msgid "Size (Single)"
+#~ msgstr "シングルサイズです"
+
+#~ msgid "1 SET "
+#~ msgstr "1 SET "
+
+#~ msgid "Custom PCB Board"
+#~ msgstr "PCB基板をカスタマイズします"
+
+#~ msgid "BOM Material Purchase"
+#~ msgstr "BOMマテリアルの調達です"
+
+#~ msgid "Place perform \"BOM Match\""
+#~ msgstr "場所実行\"BOMマッチングです\""
+
+#~ msgid "The final quotation is subject to review."
+#~ msgstr "最終見積書は審査の対象です。"
+
+#~ msgid " Generate "
+#~ msgstr "生成します"
+
+#~ msgid "Generate fabrication files to the project folder"
+#~ msgstr "プロジェクトフォルダにファブリケーションファイルを生成します"
+
+#~ msgid "Generate fabrication files"
+#~ msgstr "捏造ファイルを生成する"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "Auto match finished.Some parts might match failed. You can try it again or match by manual."
+#~ msgstr "自動車試合終了する。一部の部品が一致しない可能性があります。あなたはそれを再試行するか、手動で一致させることができます。"
+
+#~ msgid "Show Part Details"
+#~ msgstr "詳細を示す一端"
+
+#~ msgid "Rotation"
+#~ msgstr "回転します"
+
+#~ msgid "returned data does not have expected part details"
+#~ msgstr "返されるデータには、期待される部品の詳細が含まれていません"
+
+#~ msgid "1000 Results (limited)"
+#~ msgstr "1000匹です(限定)"
+
+#~ msgid "   NextPCB   "
+#~ msgstr "   NextPCB   "
+
+#~ msgid "Upload fabrication file"
+#~ msgstr "アップロード捏造ファイル"
+
+#~ msgid "Preference"
+#~ msgstr "好み"
+
+#~ msgid "Website"
+#~ msgstr "注文サイト"
+
+#, fuzzy
+#~| msgid "30mm  PCB Length/Width  100mm"
+#~ msgid "30mm  PCB L/W  100mm"
+#~ msgstr "30mm  長PCB /幅  100mm"
+
+#~ msgid "Choose a kicad pcb file"
+#~ msgstr "kicad pcbファイルを選択します"
+
+#~ msgid "Supplier"
+#~ msgstr "サプライヤー"
+
+#~ msgid "Stock"
+#~ msgstr "株式"
+
+#~ msgid " HQ NextPCB "
+#~ msgstr " HQ NextPCB "
+
+#~ msgid "total_fee"
+#~ msgstr "総費用です"
+
+#~ msgid "Import"
+#~ msgstr "輸入"
+
+#~ msgid "Export"
+#~ msgstr "輸出"
+
+#, fuzzy
+#~| msgid "Price"
+#~ msgid "Price()"
+#~ msgstr "価格"
+
+#~ msgid "HQ NextPCB Active Manufacturing"
+#~ msgstr "HQネクストPCBアクティブ製造"
+
+#~ msgid ""
+#~ "Restart the plugin to apply the new locale ?\n"
+#~ "For full translation(including the options), restarting KiCad is required"
+#~ msgstr ""
+#~ "プラグインを再起動して新しい言語設定を適用しますか?\n"
+#~ "完全な翻訳 (オプションを含む) が必要な場合は、KiCad を再起動してください"
+
+#~ msgid " is not supported"
+#~ msgstr " がサポートされていない"
+
+#~ msgid "China"
+#~ msgstr "中国"
+
+#~ msgid "Japan"
+#~ msgstr "日本"
+
+#~ msgid "Others"
+#~ msgstr "其它"
+
+#~ msgid "Shipping address"
+#~ msgstr "注文地域"
+
+#~ msgid "Other countries/areas"
+#~ msgstr "その他の国・地域"
+
+#~ msgid "CN"
+#~ msgstr "CN"
+
+#~ msgid "JP"
+#~ msgstr "JP"
+
+#~ msgid "EU/USA"
+#~ msgstr "EU/USA"
+
+#~ msgid "Order Region"
+#~ msgstr "注文地域"
+
+#~ msgid "Restart the plugin to apply the new locale ?"
+#~ msgstr "プラグインを再起動して新しいロケールを適用しますか?"
+
+#~ msgid "en"
+#~ msgstr "英語"
+
+#~ msgid "ja"
+#~ msgstr "日本語"
+
+#~ msgid "zh_CN"
+#~ msgstr "簡体字中国語"
+
+#~ msgid "Time"
+#~ msgstr "時間"
+
+#~ msgid "Cost"
+#~ msgstr "料金"
+
+#~ msgid "$"
+#~ msgstr "$"
+
+#~ msgid "jp"
+#~ msgstr "日本語"
