@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Component Search",
+    "description": "One-click search for electronic components",
+    "description_full": "This advanced search engine empowers engineers, purchasers, and designers to efficiently locate electronic components by integrating ​multi-dimensional search capabilities and real-time supply chain insights. Designed to streamline workflows from prototyping to mass production, it supports searches via ​Manufacturer Part Number (MPN), ​vague descriptions, ​electrical parameters, and even cross-referencing equivalents.",
+    "identifier": "com.github.Huaqiu-Electronics.kicad-search-plugin",
+    "type": "plugin",
+    "author": {
+        "name": "Huaqiu",
+        "contact": {
+            "email": "zhanghaf60@gmail.com"
+        }
+    },
+    "maintainer": {
+        "name": "Huaqiu",
+        "contact": {
+            "email": "zhanghaf60@gmail.com"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "Github": "https://github.com/Huaqiu-Electronics/kicad-search-plugin.git"
+    },
+    "versions": [
+        {
+            "version": "1.0.2",
+            "status": "stable",
+            "kicad_version": "8.0"
+        }
+    ]
+}
