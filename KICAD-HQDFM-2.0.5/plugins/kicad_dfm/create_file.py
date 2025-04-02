@@ -28,7 +28,7 @@ from pcbnew import (
     ToMM,
     DRILL_MARKS_NO_DRILL_SHAPE,
 )
-
+from kicad_dfm.settings.version_utils import plot_text
 
 class CreateFile:
     def __init__(self, _board):
@@ -45,8 +45,9 @@ class CreateFile:
 
         popt.SetPlotValue(True)
         popt.SetPlotReference(True)
+        # plot_text(popt)
         # popt.SetPlotInvisibleText(False)
-        popt.SetPlotFPText(False)
+        # popt.SetPlotFPText(False)
 
         popt.SetSketchPadsOnFabLayers(False)
 
