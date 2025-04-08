@@ -68,7 +68,7 @@ class DfmMainframe(wx.Frame):
                 "C:\\Program Files\\demos\\testDFM\\testDFM.kicad_pcb",
                 "C:\\Program Files\\demos\\ecc83\\ecc83-pp-kicad9.kicad_pcb",
                 "C:\\Program Files\\demos\\N100.kicad_pcb",
-                "C:\\Program Files\\demos\\flat_hierarchy\\flat_hierarchy.kicad_pcb",
+                # "C:\\Program Files\\demos\\flat_hierarchy\\flat_hierarchy.kicad_pcb",
             ):
                 if os.path.exists(fp):
                     self.board = pcbnew.LoadBoard(fp)
