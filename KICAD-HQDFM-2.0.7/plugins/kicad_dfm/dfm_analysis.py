@@ -127,7 +127,7 @@ class DfmAnalysis:
             if number < 90:
                 number += 2
             try:
-                json_file = requests.get(id_url, params=params, , timeout=20  )
+                json_file = requests.get(id_url, params=params, timeout=20  )
                 time.sleep(1.5)
             except requests.exceptions.ConnectionError as e:
                 self.report_part_search_error(
