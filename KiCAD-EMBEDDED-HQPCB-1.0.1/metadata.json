@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Component Search",
+    "description": "Quote and place order",
+    "description_full": "Quote and place order of PCB and PCBA",
+    "identifier": "com.github.Huaqiu-Electronics.kicad-embedded-hqpcb",
+    "type": "plugin",
+    "author": {
+        "name": "Huaqiu",
+        "contact": {
+            "email": "zhanghaf60@gmail.com"
+        }
+    },
+    "maintainer": {
+        "name": "Huaqiu",
+        "contact": {
+            "email": "zhanghaf60@gmail.com"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "Github": "https://github.com/Huaqiu-Electronics/kicad-embedded-hqpcb.git"
+    },
+    "versions": [
+        {
+            "version": "1.0.1",
+            "status": "stable",
+            "kicad_version": "8.0"
+        }
+    ]
+}

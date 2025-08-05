@@ -1,0 +1,31 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "Freerouting",
+    "description": "Freerouting for PCB auto routing.", 
+    "description_full": "Freerouting for PCB auto routing.", 
+    "identifier": "com.github.Huaqiu-Electronics.kicad-embedded-freerouting",
+    "type": "plugin",
+    "author": {
+        "name": "Huaqiu",
+        "contact": {
+            "email": "zhanghaf60@gmail.com"
+        }
+    },
+    "maintainer": {
+        "name": "Huaqiu",
+        "contact": {
+            "email": "zhanghaf60@gmail.com"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "Github": "https://github.com/Huaqiu-Electronics/kicad-embedded-freerouting.git"
+    },
+    "versions": [
+        {
+            "version": "1.0.2",
+            "status": "stable",
+            "kicad_version": "8.0"
+        }
+    ]
+}
